@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "216920e24d804c30",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "3D Navigation/传感器标定/images/Pasted image 20240305161334.png"
-              }
-            }
-          },
-          {
             "id": "241f3d97ecbb5df0",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +161,7 @@
   },
   "active": "241f3d97ecbb5df0",
   "lastOpenFiles": [
+    "3D Navigation/传感器标定/A_flexible_new_technique_for_camera_calibration.pdf",
     "3D Navigation/传感器标定/Calibration Board.md",
     "3D Navigation/传感器标定/棋盘格27_27.pdf",
     "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
