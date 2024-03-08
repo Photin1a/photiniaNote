@@ -33,24 +33,16 @@
             "id": "241f3d97ecbb5df0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3D Navigation/传感器标定/images/Pasted image 20240305144324.png"
-              }
-            }
-          },
-          {
-            "id": "4401778eb85ff1e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3D Navigation/传感器标定/棋盘格27_27.pdf"
+                "file": "3D Navigation/传感器标定/Calibration Board.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Navigation/传感器标定/棋盘格27_27.pdf",
+                "file": "3D Navigation/传感器标定/Calibration Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Navigation/传感器标定/棋盘格27_27.pdf",
+                "file": "3D Navigation/传感器标定/Calibration Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Navigation/传感器标定/棋盘格27_27.pdf"
+                "file": "3D Navigation/传感器标定/Calibration Board.md"
               }
             }
           }
@@ -177,10 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4401778eb85ff1e5",
+  "active": "241f3d97ecbb5df0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "3D Navigation/传感器标定/单目相机的标定.md",
+    "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
     "3D Navigation/传感器标定/棋盘格27_27.pdf",
+    "conflict-files-obsidian-git.md",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/readme",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115701.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115658.jpg",
@@ -191,10 +185,8 @@
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115644.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115641.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115638.jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115636.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格",
     "3D Navigation/传感器标定/Calibration Board.md",
-    "3D Navigation/传感器标定/单目相机的标定.md",
     "工具/Linux/New Ubuntu.md",
     "template/CMake+Qt.md",
     "工具/Linux",
