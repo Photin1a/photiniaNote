@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "3D Navigation/传感器标定/AprilTag.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "3D Navigation/传感器标定/AprilTag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "3D Navigation/传感器标定/AprilTag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md"
+                "file": "3D Navigation/传感器标定/AprilTag.md"
               }
             }
           }
@@ -181,12 +181,13 @@
   },
   "active": "4401778eb85ff1e5",
   "lastOpenFiles": [
+    "3D Navigation/传感器标定/单目相机的标定.md",
+    "3D Navigation/传感器标定/AprilTag.md",
+    "工具/Linux/New Ubuntu.md",
     "template/CMake+Qt.md",
     "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
-    "工具/Linux/New Ubuntu.md",
     "工具/Linux",
     "工具",
-    "3D Navigation/传感器标定/单目相机的标定.md",
     "3D Navigation/四元数、欧拉角/旋转矩阵和欧拉角.md",
     "template/images",
     "template/images/Pasted image 20240306124331.png",
