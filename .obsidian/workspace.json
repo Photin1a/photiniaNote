@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Navigation/传感器标定/自动标定方案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f340df4452bb661c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "3D Navigation/传感器标定/单目相机的标定.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,35 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f340df4452bb661c",
+  "active": "241f3d97ecbb5df0",
   "lastOpenFiles": [
-    "3D Navigation/传感器标定/自动标定方案.md",
-    "3D Navigation/传感器标定/单目相机的标定.md",
-    "3D Navigation/四元数、欧拉角/旋转矩阵和欧拉角.md",
-    "3D Navigation/传感器标定/Calibration Board.md",
-    "3D Navigation/传感器标定/A_flexible_new_technique_for_camera_calibration.pdf",
-    "3D Navigation/传感器标定/棋盘格27_27.pdf",
+    "3D Navigation/传感器标定/images/Pasted image 20240305161334.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240305142519.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240305131442.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240305131112.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240305130527.png",
+    "3D Navigation/传感器标定/images/Pasted image 20240304184234.png",
+    "3D Navigation/传感器标定/images",
     "Pasted image 20240309204720.png",
     "Pasted image 20240309204427.png",
-    "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
+    "3D Navigation/传感器标定/自动标定方案.md",
+    "3D Navigation/传感器标定/A_flexible_new_technique_for_camera_calibration.pdf",
+    "3D Navigation/传感器标定/Calibration Board.md",
+    "3D Navigation/传感器标定/棋盘格27_27.pdf",
     "3D Navigation/传感器标定/AprilTag.md",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/readme",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115701.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115658.jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115657.jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115657 (another copy).jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115657 (copy).jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115655.jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115655 (another copy).jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格",
+    "3D Navigation/传感器标定/单目相机的标定.md",
     "工具/Linux/New Ubuntu.md",
     "template/CMake+Qt.md",
     "工具/Linux",
     "工具",
+    "3D Navigation/四元数、欧拉角/旋转矩阵和欧拉角.md",
     "template/images",
     "template",
     "3D Navigation/四元数、欧拉角",
-    "Untitled.canvas",
-    "3D Navigation/传感器标定/images"
+    "Untitled.canvas"
   ]
 }
