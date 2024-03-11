@@ -12,17 +12,17 @@ sudo apt install -y wget && wget http://fishros.com/install -O fishros && . fish
 cd ~/Downloads && sudo apt install -y wget && wget https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/code_1.87.0-1709078641_amd64.deb
 sudo dpkg -i code_1.87.0-1709078641_amd64.deb
 ```
-### Qt5.15.2
+### Qt5.14.2
 ```sh
 #install auto or manu
 cd ~/Downloads
-sudo apt install -y wget && wget https://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run&&chmod 777 ./qt-unified-linux-x64-online.run
+sudo apt install -y wget && wget https://download.qt.io/archive/qt/5.14/5.14.2/qt-opensource-linux-x64-5.14.2.run&&chmod 777 ./qt-opensource-linux-x64-5.14.2.run
 sudo bash -c 'echo "deb http://security.debian.org/debian-security buster/updates main" >> /etc/apt/sources.list'  #添加源
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A 54404762BBB6E853
 sudo apt update
 sudo apt install -y libc6-dev libc6
 strings /lib/x86_64-linux-gnu/libc.so.6 | grep GLIBC_
-./qt-unified-linux-x64-online.run --mirror https://mirrors.tuna.tsinghua.edu.cn/qt  #mirror
+./qt-opensource-linux-x64-5.14.2.run --mirror https://mirrors.tuna.tsinghua.edu.cn/qt  #mirror
 ```
 最后**设置环境变量**
 ```bash
