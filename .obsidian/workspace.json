@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D Navigation/传感器标定/自动标定方案.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3D Navigation/传感器标定/自动标定方案.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3D Navigation/传感器标定/自动标定方案.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3D Navigation/传感器标定/自动标定方案.md"
+                "file": "工具/Linux/New Ubuntu.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "241f3d97ecbb5df0",
   "lastOpenFiles": [
+    "3D Navigation/传感器标定/自动标定方案.md",
     "工具/Linux/New Ubuntu.md",
     "template/CMake+Qt.md",
-    "3D Navigation/传感器标定/自动标定方案.md",
     "3D Navigation/传感器标定/单目相机的标定.md",
     "3D Navigation/传感器标定/images/Pasted image 20240305161334.png",
     "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",

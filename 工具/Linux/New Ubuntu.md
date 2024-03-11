@@ -15,12 +15,14 @@ sudo dpkg -i code_1.87.0-1709078641_amd64.deb
 ### Qt5.15.2
 ```sh
 #install auto or manu
-sudo apt install -y wget && wget https://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run&&chmod 777 ./qt-unified-linux-x64-online.run&&./qt-unified-linux-x64-online.run --mirror https://mirrors.tuna.tsinghua.edu.cn/qt  #mirror
+cd ~/Downloads
+sudo apt install -y wget && wget https://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run&&chmod 777 ./qt-unified-linux-x64-online.run
 sudo echo "deb http://security.debian.org/debian-security buster/updates main" > /etc/apt/sources.list  #添加源
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A 54404762BBB6E853
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A54404762BBB6E853
 sudo apt update
 sudo apt install -y libc6-dev libc6
 strings /lib/x86_64-linux-gnu/libc.so.6 | grep GLIBC_
+./qt-unified-linux-x64-online.run --mirror https://mirrors.tuna.tsinghua.edu.cn/qt  #mirror
 ```
 最后**设置环境变量**
 ```bash
