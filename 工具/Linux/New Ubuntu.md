@@ -22,7 +22,7 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 112695A0E562B32A 5
 sudo apt update
 sudo apt install -y libc6-dev libc6
 strings /lib/x86_64-linux-gnu/libc.so.6 | grep GLIBC_
-./qt-opensource-linux-x64-5.14.2.run --mirror https://mirrors.tuna.tsinghua.edu.cn/qt  #mirror
+./qt-opensource-linux-x64-5.14.2.run 
 ```
 最后**设置环境变量**
 ```bash
