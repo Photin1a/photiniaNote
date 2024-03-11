@@ -9,7 +9,7 @@ sudo apt install -y wget && wget http://fishros.com/install -O fishros && . fish
 ```
 ### vscode
 ```sh
-cd ~/Download && sudo apt install -y wget && wget https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/code_1.87.0-1709078641_amd64.deb
+cd ~/Downloads && sudo apt install -y wget && wget https://vscode.download.prss.microsoft.com/dbazure/download/stable/019f4d1419fbc8219a181fab7892ebccf7ee29a2/code_1.87.0-1709078641_amd64.deb
 sudo dpkg -i code_1.87.0-1709078641_amd64.deb
 ```
 ### Qt5.15.2
@@ -37,11 +37,11 @@ rm cfw.tar.xz
 ```
 ### Todesk远程
 ```sh
-cd ~/Download && sudo apt install -y wget && wget https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
+cd ~/Downloads && sudo apt install -y wget && wget https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
 sudo dpkg -i todesk-v4.7.2.0-amd64.deb
 ```
 ### 搜狗输入法 version<=20.04
 ```sh
-cd ~/Download && sudo apt install -y wget && wget https://ime-sec.gtimg.com/202403071420/22bada687d64a1ed174182e4fdbc9f84/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb
+cd ~/Downloads && sudo apt install -y wget && wget https://ime-sec.gtimg.com/202403071420/22bada687d64a1ed174182e4fdbc9f84/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb
 sudo dpkg -i sogoupinyin_4.2.1.145_amd64.deb
-```
+``
