@@ -43,7 +43,14 @@ cd ~/Downloads && sudo apt install -y wget && wget https://dl.todesk.com/linux/t
 sudo dpkg -i todesk-v4.7.2.0-amd64.deb
 ```
 ### 搜狗输入法 version<=20.04
+[csdn](https://blog.csdn.net/qq2399431200/article/details/123917194)
 ```sh
+# 先卸载掉fcitx，及其所有相关的软件
+sudo apt -y --purge remove *fcitx*
+sudo apt clean *fcitx*
+
+sudo apt install -y fcitx
+
 cd ~/Downloads && sudo apt install -y wget && wget https://ime-sec.gtimg.com/202403071420/22bada687d64a1ed174182e4fdbc9f84/pc/dl/gzindex/1680521603/sogoupinyin_4.2.1.145_amd64.deb
 sudo dpkg -i sogoupinyin_4.2.1.145_amd64.deb
 ``
