@@ -37,6 +37,11 @@ git clone https://github.com/Photin1a/clash_linux.git && cd clash_linux
 tar -xvf cfw.tar.xz
 rm cfw.tar.xz
 ```
+
+### obsidian
+```
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/262342594/942b6405-bc1e-483b-af90-181569845771?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240313T110701Z&X-Amz-Expires=300&X-Amz-Signature=dcd7878f6e15dd4f2e97aa528d87fcac7fe5addc937068d555eb400fb300d256&X-Amz-SignedHeaders=host&actor_id=113961402&key_id=0&repo_id=262342594&response-content-disposition=attachment%3B%20filename%3Dobsidian_1.5.8_amd64.deb&response-content-type=application%2Foctet-stream
+```
 ### Todesk远程
 ```sh
 cd ~/Downloads && sudo apt install -y wget && wget https://dl.todesk.com/linux/todesk-v4.7.2.0-amd64.deb
