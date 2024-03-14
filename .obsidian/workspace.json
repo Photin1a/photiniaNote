@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "ROS/config.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "ROS/config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md",
+                "file": "ROS/config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Linux/New Ubuntu.md"
+                "file": "ROS/config.md"
               }
             }
           }
@@ -168,11 +168,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "f340df4452bb661c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "ROS/config.md",
+    "ROS",
+    "工具/Linux/New Ubuntu.md",
     "3D Navigation/传感器标定/images/Pasted image 20240305161334.png",
     "3D Navigation/传感器标定/images/Pasted image 20240305144324.png",
     "3D Navigation/传感器标定/images/Pasted image 20240305142519.png",
@@ -192,15 +197,12 @@
     "3D Navigation/传感器标定/AprilTag.md",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/readme",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115701.jpg",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115658.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格",
-    "工具/Linux/New Ubuntu.md",
     "template/CMake+Qt.md",
     "工具/Linux",
     "工具",
     "template/images",
     "template",
-    "3D Navigation/四元数、欧拉角",
     "Untitled.canvas"
   ]
 }
