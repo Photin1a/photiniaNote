@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Tmux.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd0bc277b4d7d1aa",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Tmux.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Tmux.md",
+                "file": "工具/Linux/New Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Tmux.md"
+                "file": "工具/Linux/New Ubuntu.md"
               }
             }
           }
@@ -175,9 +174,9 @@
   },
   "active": "f340df4452bb661c",
   "lastOpenFiles": [
+    "工具/Tmux.md",
     "Pasted image 20240322154457.png",
     "3D Navigation/传感器标定/单目相机的标定.md",
-    "工具/Tmux.md",
     "ROS/config.md",
     "Untitled.md",
     "ROS",
@@ -199,7 +198,6 @@
     "Pasted image 20240309204427.png",
     "3D Navigation/传感器标定/AprilTag.md",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/readme",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格/IMG_20240308_115701.jpg",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格",
     "template/CMake+Qt.md",
     "工具/Linux",
