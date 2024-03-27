@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0e72c93f356789f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f340df4452bb661c",
+  "active": "b0e72c93f356789f",
   "lastOpenFiles": [
     "工具/Tmux.md",
     "Pasted image 20240322154457.png",
