@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model C++/多线程.md",
+                "file": "刷题/labuladong/03 链表双指针技巧汇总.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5bcd1190b6e30c49",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd0bc277b4d7d1aa",
@@ -120,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model C++/多线程.md",
+                "file": "刷题/labuladong/03 链表双指针技巧汇总.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model C++/多线程.md",
+                "file": "刷题/labuladong/03 链表双指针技巧汇总.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model C++/多线程.md"
+                "file": "刷题/labuladong/03 链表双指针技巧汇总.md"
               }
             }
           }
@@ -182,10 +173,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5bcd1190b6e30c49",
+  "active": "f340df4452bb661c",
   "lastOpenFiles": [
-    "刷题/数据结构和算法.md",
+    "刷题/labuladong/02 学习数据结构和算法的框架思维.md",
+    "刷题/labuladong/03 链表双指针技巧汇总.md",
+    "刷题/labuladong",
     "刷题/网站.md",
+    "Model C++/多线程.md",
     "3D Navigation/传感器标定/自动标定方案.md",
     "路径规划/拓扑图规划.md",
     "Model C++/STL.md",
@@ -201,7 +195,6 @@
     "路径规划",
     "Untitled.canvas",
     "工具/Tmux.md",
-    "Model C++/多线程.md",
     "thread_pool.zip",
     "Pasted image 20240330001216.png",
     "Pasted image 20240329231011.png",
@@ -220,7 +213,6 @@
     "3D Navigation/传感器标定/棋盘格27_27.pdf",
     "3D Navigation/传感器标定/AprilTag.md",
     "3D Navigation/传感器标定/IQOO拍摄棋盘格/readme",
-    "3D Navigation/传感器标定/IQOO拍摄棋盘格",
     "template/CMake+Qt.md"
   ]
 }
