@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83989391e53dd743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "备忘录.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/mutiple robot config.md",
+                "file": "备忘录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/mutiple robot config.md",
+                "file": "备忘录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/mutiple robot config.md"
+                "file": "备忘录.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0925246b34a7a3e1",
+  "active": "83989391e53dd743",
   "lastOpenFiles": [
-    "ROS/print to terminal.md",
     "ROS/mutiple robot config.md",
+    "备忘录.md",
+    "ROS/print to terminal.md",
     "Model C++/多线程.md",
     "Model C++/nlohmann json.md",
     "刷题/labuladong/03 链表双指针技巧汇总.md",
@@ -167,7 +181,6 @@
     "Model C++/greater、less.md",
     "Pasted image 20240404114231.png",
     "路径规划/广度优先搜索（breath-First Search）.md",
-    "Untitled.md",
     "刷题",
     "Pasted image 20240403175028.png",
     "Pasted image 20240403173144.png",
