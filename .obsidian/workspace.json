@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/print to terminal.md",
+                "file": "ROS/mutiple robot config.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/print to terminal.md",
+                "file": "ROS/mutiple robot config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/print to terminal.md",
+                "file": "ROS/mutiple robot config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/print to terminal.md"
+                "file": "ROS/mutiple robot config.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "0925246b34a7a3e1",
   "lastOpenFiles": [
-    "ROS/config.md",
     "ROS/print to terminal.md",
+    "ROS/mutiple robot config.md",
     "Model C++/多线程.md",
     "Model C++/nlohmann json.md",
     "刷题/labuladong/03 链表双指针技巧汇总.md",
