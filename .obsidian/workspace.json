@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "备忘录.md",
+                "file": "工具/Linux/安装库.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备忘录.md",
+                "file": "工具/Linux/安装库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "备忘录.md",
+                "file": "工具/Linux/安装库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "备忘录.md"
+                "file": "工具/Linux/安装库.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "83989391e53dd743",
   "lastOpenFiles": [
-    "ROS/mutiple robot config.md",
+    "工具/Linux/New Ubuntu.md",
+    "工具/Linux/安装库.md",
     "备忘录.md",
+    "ROS/mutiple robot config.md",
     "ROS/print to terminal.md",
     "Model C++/多线程.md",
     "Model C++/nlohmann json.md",
@@ -193,7 +195,6 @@
     "Pasted image 20240330001216.png",
     "Pasted image 20240329231011.png",
     "Pasted image 20240329230732.png",
-    "工具/Linux/New Ubuntu.md",
     "Model C++",
     "Pasted image 20240322154457.png",
     "3D Navigation/传感器标定/单目相机的标定.md",
