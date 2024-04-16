@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Linux/安装库.md",
+                "file": "Model C++/标准库.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd0bc277b4d7d1aa",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Linux/安装库.md",
+                "file": "Model C++/标准库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Linux/安装库.md",
+                "file": "Model C++/标准库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Linux/安装库.md"
+                "file": "Model C++/标准库.md"
               }
             }
           }
@@ -162,8 +163,10 @@
   },
   "active": "83989391e53dd743",
   "lastOpenFiles": [
-    "工具/Linux/New Ubuntu.md",
+    "Model C++/STL.md",
+    "Model C++/标准库.md",
     "工具/Linux/安装库.md",
+    "工具/Linux/New Ubuntu.md",
     "备忘录.md",
     "ROS/mutiple robot config.md",
     "ROS/print to terminal.md",
@@ -179,7 +182,6 @@
     "刷题/labuladong",
     "刷题/网站.md",
     "路径规划/拓扑图规划.md",
-    "Model C++/STL.md",
     "Model C++/greater、less.md",
     "Pasted image 20240404114231.png",
     "路径规划/广度优先搜索（breath-First Search）.md",
