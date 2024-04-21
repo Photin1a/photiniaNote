@@ -1,3 +1,16 @@
+## 安装
+```bash
+sudo apt install docker.io
+
+sudo groupadd docker
+sudo usermod -aG docker  photinia
+newgrp docker
+cd /home/photinia/ && mkdir .docker
+sudo chown photinia:photinia /home/photinia/.docker -R
+sudo chmod g+rwx "/home/photinia/.docker" -R
+sudo chmod 666 /var/run/docker.sock
+```
+
 ```bash
 sudo apt install docker.io
 ```
@@ -33,4 +46,4 @@ exit  退出镜像交互终端
 - 列出本机所有容器，包括终止运行的容器：`docker container ls -l --all`
 - 删除容器文件：`docker container rm [containerID]`
 - 导出容器：`docker export [OPTIONS] CONTAINER`
-- 导入容器：`docker import [OPTIONS] file|URL|- [REPOSITORY[:TAG]]`
+- 导入容器：`docker import [OPTIONS] file|URL|- [REPOSITORY[:TAG]]`## 
