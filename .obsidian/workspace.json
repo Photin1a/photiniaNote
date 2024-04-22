@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83989391e53dd743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "right": {
     "id": "cd0bc277b4d7d1aa",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/docker.md",
+                "file": "ROS/mutiple robot config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/docker.md",
+                "file": "ROS/mutiple robot config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/docker.md"
+                "file": "ROS/mutiple robot config.md"
               }
             }
           }
@@ -160,15 +147,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "83989391e53dd743",
+  "active": "0925246b34a7a3e1",
   "lastOpenFiles": [
-    "Model C++/多线程/atomic.md",
+    "template/CMake+Qt.md",
+    "Model C++/STL.md",
+    "路径规划/拓扑图规划.md",
+    "路径规划/广度优先搜索（breath-First Search）.md",
     "工具/docker.md",
+    "工具/Tmux.md",
+    "Model C++/多线程/atomic.md",
     "Model C++/多线程/多线程.md",
     "Model C++/标准库.md",
     "Model C++/多线程",
     "Model C++/nlohmann json.md",
-    "Model C++/STL.md",
     "工具/Linux/安装库.md",
     "工具/Linux/New Ubuntu.md",
     "备忘录.md",
@@ -183,10 +174,8 @@
     "滑动窗口算法--photinia.md",
     "刷题/labuladong",
     "刷题/网站.md",
-    "路径规划/拓扑图规划.md",
     "Model C++/greater、less.md",
     "Pasted image 20240404114231.png",
-    "路径规划/广度优先搜索（breath-First Search）.md",
     "刷题",
     "Pasted image 20240403175028.png",
     "Pasted image 20240403173144.png",
@@ -194,7 +183,6 @@
     "Pasted image 20240403150506.png",
     "路径规划",
     "Untitled.canvas",
-    "工具/Tmux.md",
     "thread_pool.zip",
     "Pasted image 20240330001216.png",
     "Pasted image 20240329231011.png",
@@ -207,7 +195,6 @@
     "3D Navigation/传感器标定/images",
     "3D Navigation/传感器标定/Calibration Board.md",
     "3D Navigation/传感器标定/A_flexible_new_technique_for_camera_calibration.pdf",
-    "3D Navigation/传感器标定/棋盘格27_27.pdf",
-    "3D Navigation/传感器标定/AprilTag.md"
+    "3D Navigation/传感器标定/棋盘格27_27.pdf"
   ]
 }
