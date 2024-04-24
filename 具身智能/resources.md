@@ -9,14 +9,13 @@ pip install stable-baselines3[extra]
 ```
 
 
+----
+```python
+model = PPO("MlpPolicy", vec_env, verbose=1)
+# MlpPolicy: 非图像用MlpPolicy,图像用Cnnpolicies
+# 
 
-
-
-
-
-
-
-
+````
 
 
 
