@@ -2,6 +2,11 @@
 ## [web](https://stable-baselines3.readthedocs.io/en/master/)
 
 
+## 环境
+```bash
+pip install stable-baselines3[extra]
+
+```
 
 
 
