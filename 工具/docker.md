@@ -12,9 +12,6 @@ sudo chmod 666 /var/run/docker.sock
 ```
 
 ```bash
-sudo apt install docker.io
-```
-```bash
 systemctl start docker #启动docker
 systemctl restart  docker #重启docker
 docker systemctl stop docker  #关闭docker
