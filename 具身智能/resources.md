@@ -11,9 +11,16 @@ pip install stable-baselines3[extra]
 
 ----
 ```python
+env = gym.make('CartPole-v1')  # 创建环境
+
 model = PPO("MlpPolicy", vec_env, verbose=1)
-# MlpPolicy: 非图像用MlpPolicy,图像用Cnnpolicies
-# 
+# param_1: 
+	# MlpPolicy: 多层感知机策略
+	# Cnnpolicies： 卷积神经网络策略，用语图像
+	# verbose=1： 打印训练进度
+
+model.learn(total_timesteps=20000)  #训练20000次
+model.save("ppo_var")  
 
 ````
 
