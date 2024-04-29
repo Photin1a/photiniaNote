@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "具身智能/OSqp.md",
+                "file": "具身智能/CasADi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "具身智能/OSqp.md",
+                "file": "具身智能/CasADi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "具身智能/OSqp.md",
+                "file": "具身智能/CasADi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "具身智能/OSqp.md"
+                "file": "具身智能/CasADi.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "adbf3380b5e86657",
   "lastOpenFiles": [
-    "具身智能/CasADi.md",
     "具身智能/OSqp.md",
+    "具身智能/CasADi.md",
     "工具/docker.md",
     "具身智能/resources.md",
     "具身智能",
