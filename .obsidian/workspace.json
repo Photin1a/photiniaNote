@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model C++/多线程/多线程.md",
+                "file": "具身智能/CasADi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model C++/多线程/多线程.md",
+                "file": "具身智能/CasADi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model C++/多线程/多线程.md",
+                "file": "具身智能/CasADi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model C++/多线程/多线程.md"
+                "file": "具身智能/CasADi.md"
               }
             }
           }
@@ -162,6 +162,9 @@
   },
   "active": "adbf3380b5e86657",
   "lastOpenFiles": [
+    "工具/Linux/安装库.md",
+    "工具/Linux/New Ubuntu.md",
+    "Model C++/多线程/多线程.md",
     "工具/Tmux.md",
     "具身智能/CasADi.md",
     "具身智能/OSqp.md",
@@ -174,12 +177,9 @@
     "Model C++/STL.md",
     "路径规划/拓扑图规划.md",
     "路径规划/广度优先搜索（breath-First Search）.md",
-    "Model C++/多线程/多线程.md",
     "Model C++/标准库.md",
     "Model C++/多线程",
     "Model C++/nlohmann json.md",
-    "工具/Linux/安装库.md",
-    "工具/Linux/New Ubuntu.md",
     "备忘录.md",
     "ROS/print to terminal.md",
     "刷题/labuladong/03 链表双指针技巧汇总.md",
