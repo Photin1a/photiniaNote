@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
+                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
+                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
+                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第一章 地图构建.md"
+                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md"
               }
             }
           }
@@ -162,6 +162,10 @@
   },
   "active": "adbf3380b5e86657",
   "lastOpenFiles": [
+    "Pasted image 20240609061602.png",
+    "Pasted image 20240609061104.png",
+    "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
+    "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
     "Pasted image 20240609032928.png",
     "Pasted image 20240609032722.png",
     "Pasted image 20240609032456.png",
@@ -169,7 +173,6 @@
     "Pasted image 20240609031624.png",
     "Pasted image 20240609031322.png",
     "具身智能/CasADi.md",
-    "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
     "深蓝学院/移动机器人路径规划",
     "Untitled",
     "深蓝学院",
@@ -199,12 +202,9 @@
     "刷题/labuladong/02 学习数据结构和算法的框架思维.md",
     "刷题/labuladong/04 数组双指针技巧汇总.md",
     "刷题/labuladong/滑动窗口算法.md",
-    "3D Navigation/四元数、欧拉角/旋转矩阵和欧拉角.md",
     "刷题/labuladong",
     "Pasted image 20240404114231.png",
     "刷题",
-    "Pasted image 20240403175028.png",
-    "Pasted image 20240403173144.png",
     "路径规划",
     "Untitled.canvas",
     "thread_pool.zip",
