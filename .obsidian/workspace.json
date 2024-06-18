@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
+                "file": "深蓝学院/移动机器人路径规划/第四章 运动学约束下的运动规划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
+                "file": "深蓝学院/移动机器人路径规划/第四章 运动学约束下的运动规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
+                "file": "深蓝学院/移动机器人路径规划/第四章 运动学约束下的运动规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md"
+                "file": "深蓝学院/移动机器人路径规划/第四章 运动学约束下的运动规划.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "0925246b34a7a3e1",
   "lastOpenFiles": [
+    "Pasted image 20240617223752.png",
+    "Pasted image 20240617223502.png",
+    "运动规划第四章课件.pdf",
+    "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
+    "深蓝学院/移动机器人路径规划/第四章 运动学约束下的运动规划.md",
     "HW2_A*.zip",
     "Model C++/多线程/多线程.md",
     "HW2 3.zip.md",
-    "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
     "HW2 3.zip",
     "HW2 2.zip",
     "HW2 1.zip",
@@ -172,12 +176,9 @@
     "Pasted image 20240611000326.png",
     "Pasted image 20240610234324.png",
     "Pasted image 20240610234128.png",
-    "Pasted image 20240610233820.png",
     "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
     "具身智能/CasADi.md",
     "深蓝学院/移动机器人路径规划",
-    "Untitled",
-    "深蓝学院",
     "Untitled.md",
     "备忘录.md",
     "工具/docker.md",
@@ -194,7 +195,6 @@
     "路径规划/广度优先搜索（breath-First Search）.md",
     "Model C++/标准库.md",
     "Model C++/nlohmann json.md",
-    "ROS/print to terminal.md",
     "Untitled.canvas"
   ]
 }
