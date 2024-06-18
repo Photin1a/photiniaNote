@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model C++/多线程/多线程.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adbf3380b5e86657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,14 +147,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "adbf3380b5e86657",
+  "active": "0925246b34a7a3e1",
   "lastOpenFiles": [
+    "HW2_A*.zip",
+    "Model C++/多线程/多线程.md",
+    "HW2 3.zip.md",
+    "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
+    "HW2 3.zip",
+    "HW2 2.zip",
+    "HW2 1.zip",
+    "深蓝学院/移动机器人路径规划/hw/HW2.zip",
+    "深蓝学院/移动机器人路径规划/HW2.zip",
+    "深蓝学院/移动机器人路径规划/hw",
+    "HW2.zip",
     "Pasted image 20240617023711.png",
     "Pasted image 20240617023223.png",
     "刷题/labuladong/02 学习数据结构和算法的框架思维.md",
     "刷题/labuladong/04 数组双指针技巧汇总.md",
     "刷题/labuladong/03 链表双指针技巧汇总.md",
-    "深蓝学院/移动机器人路径规划/第二章 图搜索的路径规划.md",
     "Pasted image 20240613220252.png",
     "Pasted image 20240613215928.png",
     "Pasted image 20240613215858.png",
@@ -176,7 +173,6 @@
     "Pasted image 20240610234324.png",
     "Pasted image 20240610234128.png",
     "Pasted image 20240610233820.png",
-    "Pasted image 20240610233653.png",
     "深蓝学院/移动机器人路径规划/第一章 地图构建.md",
     "具身智能/CasADi.md",
     "深蓝学院/移动机器人路径规划",
@@ -187,11 +183,9 @@
     "工具/docker.md",
     "工具/Linux/安装库.md",
     "工具/Linux/New Ubuntu.md",
-    "Model C++/多线程/多线程.md",
     "工具/Tmux.md",
     "具身智能/OSqp.md",
     "具身智能/resources.md",
-    "具身智能",
     "Model C++/多线程/atomic.md",
     "ROS/mutiple robot config.md",
     "template/CMake+Qt.md",
@@ -199,15 +193,8 @@
     "路径规划/拓扑图规划.md",
     "路径规划/广度优先搜索（breath-First Search）.md",
     "Model C++/标准库.md",
-    "Model C++/多线程",
     "Model C++/nlohmann json.md",
     "ROS/print to terminal.md",
-    "刷题/labuladong/滑动窗口算法.md",
-    "刷题/labuladong",
-    "刷题",
-    "路径规划",
-    "Untitled.canvas",
-    "thread_pool.zip",
-    "Model C++"
+    "Untitled.canvas"
   ]
 }
