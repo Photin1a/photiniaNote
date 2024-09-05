@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "997bf2ad23fa775f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +158,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0925246b34a7a3e1",
+  "active": "997bf2ad23fa775f",
   "lastOpenFiles": [
     "刷题/labuladong/04 数组双指针技巧汇总.md",
     "刷题/labuladong/03 链表双指针技巧汇总.md",
