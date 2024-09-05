@@ -23,9 +23,11 @@
             "id": "997bf2ad23fa775f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "刷题/labuladong/03 链表双指针技巧汇总.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
