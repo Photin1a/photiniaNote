@@ -162,6 +162,9 @@
   },
   "active": "997bf2ad23fa775f",
   "lastOpenFiles": [
+    "Pasted image 20240909184502.png",
+    "Pasted image 20240909183630.png",
+    "Pasted image 20240909182855.png",
     "刷题/labuladong/滑动窗口算法.md",
     "刷题/labuladong/前缀和-差分数组.md",
     "刷题/labuladong/04 数组双指针技巧汇总.md",
@@ -179,8 +182,6 @@
     "HW2_A*/report-pdf/cb1.png",
     "HW2_A*/report-pdf/cb0.png",
     "HW2_A*/report-pdf/eud1.png",
-    "HW2_A*/report-pdf/mh1.png",
-    "HW2_A*/report-pdf/mh0.png",
     "HW2_A*/report-pdf",
     "HW2_A*/bringup.sh",
     "HW2_A*/src/grid_path_searcher/src/read_only/JPS_utils.cpp",
@@ -207,7 +208,6 @@
     "工具/Tmux.md",
     "Model C++/多线程/atomic.md",
     "Model C++/多线程/多线程.md",
-    "Model C++/标准库.md",
     "Untitled.canvas"
   ]
 }
